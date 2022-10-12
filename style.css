@@ -1,0 +1,111 @@
+h1 {
+    color:white;
+    border: 0%;
+    padding: 10%;
+    padding-top: 100px;
+    text-align: center;
+    background-color: #3b3b3b;
+    margin: 0%;
+    font-family: 'Rokkitt', serif;
+    font-size: 80px;
+    background-size: cover;    
+}
+
+body {
+    max-width: 1280px;
+    max-height: 1024px;
+    margin: 0px;
+}
+
+.vb1 {
+    display: block;
+    background-color: #ffd966;
+    font-size: 0px;   
+}
+
+.vb1:hover, .vb:hover {
+    background-color: #405a85;
+    font-size: 125px;
+}
+
+.vb {
+    text-align: right;
+    position: absolute;
+    top: 325px;
+    left: 680px;
+}
+
+.tb1 {
+    font-size: 20px;
+    font-family: 'Chewy', cursive;
+    position: absolute;
+    text-align: center;
+    left: 60px;
+    top: 200px;
+    width: 10px;
+    padding: 0px;
+    color: white;
+}
+
+.bball1 {
+    text-align: right;
+    background-color: #ec6831;
+    font-size: 0px;
+}
+
+.bball1:hover, .bb:hover {
+    background-color: #161616;
+    font-size: 125px;
+}
+
+.bb {
+    text-align: left;
+    position: absolute;
+    top: 825px;
+    left: 120px; 
+    color: white;
+}
+
+.fball1 { 
+    display: block;
+    background-color: #e15049;
+    margin-bottom: auto;
+    margin-top: 0px;
+    padding: 0%;
+    border: 0px;
+    margin-left: 0%;
+    margin-right: 0%;
+    font-size: 0px;
+} 
+
+.fball1:hover, .fb:hover {
+    background-color: #2d3d2c;
+    font-size: 125px;
+}
+
+.fb {
+    text-align: right;
+    position: absolute;
+    top: 1400;
+    left: 700px;
+}
+
+.fball2 {
+   text-align: right;
+   background-color: #d6e5b4;
+   font-size: 0px;
+}
+
+
+.fball2:hover, .fb2:hover {
+    background-color: #312232;
+    font-size: 125px;
+}
+
+.fb2 {
+    text-align: left;
+    position: absolute;
+    top: 1900px;
+    left: 250px;
+    color: white;
+}
