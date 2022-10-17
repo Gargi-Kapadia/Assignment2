@@ -92,13 +92,13 @@ body {
 
 .fball2 {
    text-align: right;
-   background-color: #d6e5b4;
+   background-color: white;
    font-size: 0px;
 }
 
 
 .fball2:hover, .fb2:hover {
-    background-color: #312232;
+    background-color: blue;
     font-size: 125px;
 }
 
